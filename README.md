@@ -510,8 +510,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Tasbid Ahmed**
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tasbid-a-rahman-/)
-- GitHub: [@yourusername](https://github.com/tasbidrahman10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tasbid-a-rahman-/)
+- GitHub: [@tasbidrahman10](https://github.com/tasbidrahman10)
 - Email: tasbidrahman555@gmail.com
 
 
